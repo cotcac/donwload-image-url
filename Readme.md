@@ -5,7 +5,7 @@ npm i download-image-url
 
 # Source
 
-(https://github.com/cotcac/download-image-url)
+( https://github.com/cotcac/download-image-url )
 
 # Description
 
@@ -15,7 +15,9 @@ The process may take time so we use callback.
 Image will be download to your public/images directory.
 To organize current year and month will be the sub directory.
 directory
+```
 public/images/year/month/fileName_thumb.jpg
+```
 
 # Example
 

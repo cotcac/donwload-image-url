@@ -1,8 +1,3 @@
-# Install
-```
-npm i download-image-url
-```
-
 # Source
 
 ( https://github.com/cotcac/download-image-url )
